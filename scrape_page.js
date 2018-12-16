@@ -30,7 +30,7 @@ async function scrapePage(node, outFolder) {
     const $ = cheerio.load(text);
 
     const article = $('article')
-    const html = article.html();
+    const html = article.html() || "";
 
     const images = $('img', article);
     const imageDownloads = images
@@ -66,7 +66,7 @@ async function scrapePage(node, outFolder) {
 
     const saveHtml = outputFile(
         join(outFolder, `${url.pathname}.md`),
-        `${frontMatter}\n\n${html}`
+        `${frontMatter}\n\n${html.trim()}`
     );
 
     const [_b, urls] = await Promise.all([
