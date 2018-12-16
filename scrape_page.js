@@ -2,11 +2,11 @@
 const {
     readdir,
     readJson,
-    ensureFile,
+    ensureDir,
     outputFile,
     createWriteStream
 } = require('fs-extra');
-const { join } = require('path');
+const { join, dirname } = require('path');
 const fetch = require('node-fetch');
 const cheerio = require('cheerio');
 
@@ -29,26 +29,27 @@ async function scrapePage(node, outFolder) {
     const text = await res.text();
     const $ = cheerio.load(text);
 
-    const article = $('article')
-    const html = article.html() || "";
+    const article = $('article');
+    const html = article.html() || '';
 
-    const images = $('img', article);
-    const imageDownloads = images
+    const imageDownloads = article
+        .find('img')
         .toArray()
         .map(img => new URL($(img).attr('src'), 'https://ubccsss.org'))
         .filter(url => url.host === 'ubccsss.org')
-        .map(url =>
-            ensureFile(url.pathname)
+        .map(url => {
+            const imagePath = join(outFolder, url.pathname);
+            return ensureDir(dirname(imagePath))
                 .then(() => {
-                    const dest = createWriteStream(url.pathname);
+                    const dest = createWriteStream(imagePath, 'binary');
                     res.body.pipe(dest);
                     return new Promise((resolve, reject) => {
                         dest.once('finish', resolve);
                         dest.once('error', reject);
                     });
                 })
-                .then(() => url)
-        );
+                .then(() => url);
+        });
 
     const [_a, month, day, year, hour, min] = DATE_REGEX.exec(node.date);
     const date = new Date(`${year}-${month}-${day}T${hour}:${min}:00`);
