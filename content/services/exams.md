@@ -8,7 +8,7 @@ author:
 date: 2017-03-09T03:50:00.000Z
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3>Please send any exams you have to <a href="/cdn-cgi/l/email-protection#7402041734011617170707075a1b0613"><span class="__cf_email__" data-cfemail="77010714370215141404040459180510">[email&#xA0;protected]</span></a>!</h3>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3>Please send any exams you have to <a href="/cdn-cgi/l/email-protection#7402041734011617170707075a1b0613"><span class="__cf_email__" data-cfemail="9bedebf8dbeef9f8f8e8e8e8b5f4e9fc">[email&#xA0;protected]</span></a>!</h3>
 
 <p>You can find our collection of CPSC exams and quizzes here. They&#x2019;re sorted by year and course. Solutions (where they exist) are also provided.</p>
 

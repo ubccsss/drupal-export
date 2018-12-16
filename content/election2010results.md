@@ -8,7 +8,7 @@ author:
 date: 2010-03-27T04:03:00.000Z
 ---
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Elections are over, and the results are in, pending any candidate-requested recounts. If a candidate wishes a recount to be taken, they should e-mail <a href="/cdn-cgi/l/email-protection#492c252c2a3d2026273a093d212c2a3c2b2c672a28"><span class="__cf_email__" data-cfemail="aacfc6cfc9dec3c5c4d9eadec2cfc9dfc8cf84c9cb">[email&#xA0;protected]</span></a> by 11:59:59PM, Sunday, March 28, 2010. Barring any changes to the outcome, congratulations to our new executives-elect:</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Elections are over, and the results are in, pending any candidate-requested recounts. If a candidate wishes a recount to be taken, they should e-mail <a href="/cdn-cgi/l/email-protection#56333a3335223f39382516223e3335233433783537"><span class="__cf_email__" data-cfemail="5530393036213c3a3b2615213d30362037307b3634">[email&#xA0;protected]</span></a> by 11:59:59PM, Sunday, March 28, 2010. Barring any changes to the outcome, congratulations to our new executives-elect:</p>
 <dl>
 <dt>President</dt>
 <dd><b>Jr&#xE9; Sarenac:</b> 99 in favour, 5 against</dd>

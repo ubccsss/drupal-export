@@ -12,7 +12,7 @@ date: 2017-03-09T03:37:00.000Z
 
 <p>View positions and their descriptions in By-Law 8 of <a href="https://ubccsss.org/club/about/constitution">our constitution</a>.</p>
 
-<p>Campaigning is optional, but encouraged. Voting will occur on March 14th and 15th. Questions can be addressed to Benson Li, Election Officer, VPI at <a href="/cdn-cgi/l/email-protection#781b0b0b0b380d1a1b1b0b0b0b56170a1f"><span class="__cf_email__" data-cfemail="a5c6d6d6d6e5d0c7c6c6d6d6d68bcad7c2">[email&#xA0;protected]</span></a>.</p>
+<p>Campaigning is optional, but encouraged. Voting will occur on March 14th and 15th. Questions can be addressed to Benson Li, Election Officer, VPI at <a href="/cdn-cgi/l/email-protection#6d0e1e1e1e2d180f0e0e1e1e1e43021f0a"><span class="__cf_email__" data-cfemail="751606060635001716160606065b1a0712">[email&#xA0;protected]</span></a>.</p>
 
 <p><a href="https://ubccsss.org/files/CSSS%20Nomination%20Individual.pdf">Nomination Form</a></p>
 </div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-range"><span class="date-display-start">Friday, March 3, 2017 (All day)</span> to <span class="date-display-end">Monday, March 13, 2017 (All day)</span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">ICICS 021</div></div></div>    <footer>

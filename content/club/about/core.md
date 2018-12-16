@@ -25,7 +25,7 @@ margin-right: 32px;
 
 <b>Name:</b> Emmanuel Sales
 <p>
-<a href="/cdn-cgi/l/email-protection#b4c4c6d1c7ddd0d1dac0f4c1d6d7d7c7c7c79adbc6d3"><span class="__cf_email__" data-cfemail="cabab8afb9a3aeafa4be8abfa8a9a9b9b9b9e4a5b8ad">[email&#xA0;protected]</span></a>
+<a href="/cdn-cgi/l/email-protection#a0d0d2c5d3c9c4c5ced4e0d5c2c3c3d3d3d38ecfd2c7"><span class="__cf_email__" data-cfemail="b6c6c4d3c5dfd2d3d8c2f6c3d4d5d5c5c5c598d9c4d1">[email&#xA0;protected]</span></a>
 </p>
 </td></tr>
 
@@ -33,7 +33,7 @@ margin-right: 32px;
 <td valign="top"><h3>Vice President, Administration </h3>
 <b>Name:</b> Michael Chern
 <p>
-<a href="/cdn-cgi/l/email-protection#6117110021140302021212124f0e1306"><span class="__cf_email__" data-cfemail="abdddbcaebdec9c8c8d8d8d885c4d9cc">[email&#xA0;protected]</span></a>
+<a href="/cdn-cgi/l/email-protection#1066607150657273736363633e7f6277"><span class="__cf_email__" data-cfemail="1c6a6c7d5c697e7f7f6f6f6f32736e7b">[email&#xA0;protected]</span></a>
 </p></td></tr>
 
 <tr><td valign="top"><div class="img" style="background-image: url(&apos;/files/default.jpg&apos;);"></div></td>
@@ -42,7 +42,7 @@ margin-right: 32px;
 
 
 <p>
-<a href="/cdn-cgi/l/email-protection#d1a7a1b291a4b3b2b2a2a2a2ffbea3b6"><span class="__cf_email__" data-cfemail="1c6a6c7f5c697e7f7f6f6f6f32736e7b">[email&#xA0;protected]</span></a>
+<a href="/cdn-cgi/l/email-protection#592f293a192c3b3a3a2a2a2a77362b3e"><span class="__cf_email__" data-cfemail="95e3e5f6d5e0f7f6f6e6e6e6bbfae7f2">[email&#xA0;protected]</span></a>
 </p></td></tr>
 
 <tr><td valign="top"><div class="img" style="background-image: url(&apos;/files/default.jpg&apos;);"></div></td>
@@ -50,21 +50,21 @@ margin-right: 32px;
 <b>Name:</b> Amy Zhu
 
 <p>
-<a href="/cdn-cgi/l/email-protection#f583858db580979696868686db9a8792"><span class="__cf_email__" data-cfemail="daacaaa29aafb8b9b9a9a9a9f4b5a8bd">[email&#xA0;protected]</span></a>
+<a href="/cdn-cgi/l/email-protection#2d5b5d556d584f4e4e5e5e5e03425f4a"><span class="__cf_email__" data-cfemail="f98f8981b98c9b9a9a8a8a8ad7968b9e">[email&#xA0;protected]</span></a>
 </p></td></tr>
 
 <tr><td valign="top"><div class="img" style="background-image: url(&apos;/files/default.jpg&apos;);"></div></td>
 <td valign="top"><h3>Vice President, Financial </h3>
 <b>Name:</b> Ray Zhang
 <p>
-<a href="/cdn-cgi/l/email-protection#47313721073225242434343469283520"><span class="__cf_email__" data-cfemail="46303620063324252535353568293421">[email&#xA0;protected]</span></a>
+<a href="/cdn-cgi/l/email-protection#ef999f89af9a8d8c8c9c9c9cc1809d88"><span class="__cf_email__" data-cfemail="bdcbcddbfdc8dfdedececece93d2cfda">[email&#xA0;protected]</span></a>
 </p></td></tr>
 
 <tr><td valign="top"><div class="img" style="background-image: url(&apos;/files/default.jpg&apos;);"></div></td>
 <td valign="top"><h3>Vice President, Internal </h3>
 <b>Name:</b> Jack Spalding-Jamieson
 <p>
-<a href="/cdn-cgi/l/email-protection#aed8dec7eedbcccdcddddddd80c1dcc9"><span class="__cf_email__" data-cfemail="8afcfae3caffe8e9e9f9f9f9a4e5f8ed">[email&#xA0;protected]</span></a>
+<a href="/cdn-cgi/l/email-protection#1c6a6c755c697e7f7f6f6f6f32736e7b"><span class="__cf_email__" data-cfemail="92e4e2fbd2e7f0f1f1e1e1e1bcfde0f5">[email&#xA0;protected]</span></a>
 </p></td></tr>
 
 
@@ -74,7 +74,7 @@ margin-right: 32px;
 <td valign="top"><h3>Vice President, Social </h3>
 <b>Name:</b> Will Walcher
 <p>
-<a href="/cdn-cgi/l/email-protection#8ef8fefdcefbecededfdfdfda0e1fce9"><span class="__cf_email__" data-cfemail="f1878182b184939292828282df9e8396">[email&#xA0;protected]</span></a>
+<a href="/cdn-cgi/l/email-protection#2157515261544342425252520f4e5346"><span class="__cf_email__" data-cfemail="7107010231041312120202025f1e0316">[email&#xA0;protected]</span></a>
 </p></td></tr>
 
 
@@ -84,7 +84,7 @@ margin-right: 32px;
 <td valign="top"><h3>Vice President, Volunteering Services </h3>
 <b>Name:</b> Chanbin Lee
 <p>
-<a href="/cdn-cgi/l/email-protection#b6c0c6c0f6c3d4d5d5c5c5c598d9c4d1"><span class="__cf_email__" data-cfemail="86f0f6f0c6f3e4e5e5f5f5f5a8e9f4e1">[email&#xA0;protected]</span></a>
+<a href="/cdn-cgi/l/email-protection#d7a1a7a197a2b5b4b4a4a4a4f9b8a5b0"><span class="__cf_email__" data-cfemail="98eee8eed8edfafbfbebebebb6f7eaff">[email&#xA0;protected]</span></a>
 </p></td></tr>
 </tbody></table>
 </div></div></div>  <div id="book-navigation-2" class="book-navigation">
