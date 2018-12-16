@@ -1,0 +1,21 @@
+{
+  "name": "drupal-export",
+  "version": "1.0.0",
+  "description": "Extract data from Drupal site",
+  "license": "MIT",
+  "author": "Tiger Oakes <contact@tigeroakes.com> (https://tigeroakes.com)",
+  "repository": "ubccsss/scrape-drupal",
+  "bugs": "https://github.com/ubccsss/scrape-drupal/issues",
+  "homepage": "https://github.com/ubccsss/scrape-drupal#readme",
+  "scripts": {
+    "start": "node scrape_page.js data content"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs-extra": "^7.0.1",
+    "node-fetch": "^2.3.0"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}
