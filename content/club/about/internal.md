@@ -8,8 +8,7 @@ author:
 date: 2015-05-04T07:00:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Internal Committee is responsible for managing the Computer Science Student Society&apos;s physical space and purchasing supplies for events and comprises the following members:</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Internal Committee is responsible for managing the Computer Science Student Society&apos;s physical space and purchasing supplies for events and comprises the following members:</p>
 <dl>
 <dt><u>Vice President, Internal</u> (chair)</dt>
 <dd>Benson Li</dd>
@@ -144,4 +143,3 @@ date: 2015-05-04T07:00:00.000Z
   </div>
     <footer>
           </footer>
-    

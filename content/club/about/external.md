@@ -8,8 +8,7 @@ author:
 date: 2015-05-04T07:01:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The External Committee is responsible for liaising with companies and planning the annual Career Fair and comprises the following members:</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The External Committee is responsible for liaising with companies and planning the annual Career Fair and comprises the following members:</p>
 <dl>
 <dt><u>Vice President, External</u> (chair)</dt>
 <dd>Michael Kwan</dd>
@@ -142,4 +141,3 @@ date: 2015-05-04T07:01:00.000Z
   </div>
     <footer>
           </footer>
-    

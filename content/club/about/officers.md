@@ -8,8 +8,7 @@ author:
 date: 2018-08-31T19:59:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><style>.execs img, .execs .img {height: 100px;width:100px;border-radius:10000px; background-size: cover;
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><style>.execs img, .execs .img {height: 100px;width:100px;border-radius:10000px; background-size: cover;
  display: block;
 margin-top: 16px;
 margin-bottom: 16px;
@@ -269,4 +268,3 @@ margin-right: 32px;
   </div>
     <footer>
           </footer>
-    

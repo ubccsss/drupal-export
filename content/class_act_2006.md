@@ -8,8 +8,7 @@ author:
 date: 2006-04-17T03:08:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Dear Graduating Computer Science students,</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Dear Graduating Computer Science students,</p>
 <p>Well, for many of us, the end is almost in sight! I hope you are surviving two months of your Computer Science degree! As your 2006 Class Act Representative, I wanted to inform you of our department&apos;s involvement in this year&apos;s Class Act program.</p>
 <p>As many of you know Class Act is a graduating gift campaign where all departing students donate towards a gift selected by the graduating class. Class Act was started by three UBC faculties in 1991, and now the program has snowballed to at times include more than 41 faculties on campus. Last year the graduating Computer Science students raised $390.50; this year we would like to raise $800.00.</p>
 <p>This year, our Class Act donations will go towards Student Excellence awards to recognize students who have made significant contributions to the department of Computer Science. By giving out these scholarships we are encouraging future involvement that will cause the CS community to continue to grow and flourish and be a great environment for undergrads in the years to come.</p>
@@ -20,4 +19,3 @@ date: 2006-04-17T03:08:00.000Z
 <p>4th Year Computer Science Student</p>
 </div></div></div>    <footer>
           </footer>
-    

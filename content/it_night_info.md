@@ -8,8 +8,7 @@ author:
 date: 2012-10-22T07:38:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3>Thank you for coming!</h3>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3>Thank you for coming!</h3>
 <p>IT Night was a success and we are looking forward to an even better night next year.  Should you have any questions regarding recruiting opportunities, or anything else, please don&apos;t hesitate to contact us.</p>
 <p>We would also love to hear any suggestions that you might have for improving IT Night.  While many of us are graduating, we do pass on these suggestions to next year&apos;s executive.</p>
 <p><b><i>Contact: </i></b><i><a href="http://tristanmoss.net/" target="_blank">Tristan Moss</a> tristanmoss(a.t)gmail.com</i></p>
@@ -87,4 +86,3 @@ frankyy(at)interchange.ubc.ca</p>
 </ul>
 </div></div></div>    <footer>
           </footer>
-    

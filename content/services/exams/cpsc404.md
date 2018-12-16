@@ -8,8 +8,7 @@ author:
 date: 2016-11-29T20:40:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2002</h2>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2002</h2>
 
 <p><a href="/files/exams/2002/cs404-2002-t1-quiz1b-sample.pdf">Quiz 1b Sample</a> <a href="/files/exams/2002/cs404-2002-t1-quiz1b-sample-solution.pdf">(Solution)</a></p>
 
@@ -60,4 +59,3 @@ date: 2016-11-29T20:40:00.000Z
   </div>
     <footer>
           </footer>
-    

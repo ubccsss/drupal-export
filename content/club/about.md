@@ -8,8 +8,7 @@ author:
 date: 2016-11-25T06:30:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>We are the UBC Computer Science Student Society (UBC CSSS), a student society to serve all Computer Science students.
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>We are the UBC Computer Science Student Society (UBC CSSS), a student society to serve all Computer Science students.
 <!--break--></p>
 
 <h2>How do I join?</h2>
@@ -34,7 +33,7 @@ You don&#x2019;t have to! As long as you&#x2019;re a Computer Science student, y
 
 <h2>How do I find out about CSSS events?</h2>
 
-<p>We&#x2019;ll be posting our events here on our website (which also has an <a href="/node/feed">RSS feed</a> and an <a href="/event/calendar.ics">iCal calendar feed</a>), <a href="https://twitter.com/ubccsss">Tweeting them</a>, posting them on our <a href="https://www.facebook.com/ubccsss/">Facebook page</a>, and sending them to our announcements mailing list. To get on the mailing list, just send an e-mail to <a href="/cdn-cgi/l/email-protection#a7c6c9c9c8d2c9c4c28ad4d2c5d4c4d5cec5c2e7d2c5c4c4d4d4d489c8d5c0"><span class="__cf_email__" data-cfemail="12737c7c7d677c71773f6167706171607b707752677071716161613c7d6075">[email&#xA0;protected]</span></a> with the word &quot;subscribe&quot; in the subject line and follow the instructions. If you have any problems, contact us at <code>postmaster[at]ubccsss[dot]org</code>.</p>
+<p>We&#x2019;ll be posting our events here on our website (which also has an <a href="/node/feed">RSS feed</a> and an <a href="/event/calendar.ics">iCal calendar feed</a>), <a href="https://twitter.com/ubccsss">Tweeting them</a>, posting them on our <a href="https://www.facebook.com/ubccsss/">Facebook page</a>, and sending them to our announcements mailing list. To get on the mailing list, just send an e-mail to <a href="/cdn-cgi/l/email-protection#d3b2bdbdbca6bdb0b6fea0a6b1a0b0a1bab1b693a6b1b0b0a0a0a0fdbca1b4"><span class="__cf_email__" data-cfemail="f0919e9e9f859e9395dd838592839382999295b085929393838383de9f8297">[email&#xA0;protected]</span></a> with the word &quot;subscribe&quot; in the subject line and follow the instructions. If you have any problems, contact us at <code>postmaster[at]ubccsss[dot]org</code>.</p>
 
 <h2>How can I volunteer for CSSS events?</h2>
 
@@ -175,4 +174,3 @@ You don&#x2019;t have to! As long as you&#x2019;re a Computer Science student, y
   </div>
     <footer>
           </footer>
-    

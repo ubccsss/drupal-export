@@ -8,8 +8,7 @@ author:
 date: 2015-04-08T07:07:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Elections are over, and the results are in! Congratulations to our new executives-elect:</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Elections are over, and the results are in! Congratulations to our new executives-elect:</p>
 <dl>
 <dt>President</dt>
 <dd><b>Thomas Lamb</b>: 58 in favour, 5 against</dd>
@@ -43,4 +42,3 @@ Clarence Lam: 21</dd>
 Thanks to everyone who voted and ran, congratulations to the winners, and good luck to next year&apos;s executive! The new executives will take power on May 1, 2015, with the exception of the Vice President, Finance who will take power at the time of treasurer orientations with the AMS Finance Commission.</p>
 </div></div></div>    <footer>
           </footer>
-    

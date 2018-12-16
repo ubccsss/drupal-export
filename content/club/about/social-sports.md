@@ -8,8 +8,7 @@ author:
 date: 2015-05-04T07:01:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Social &amp; Sports Committee is responsible for planning and executing social and sporting events for Computer Science students and comprises the following members:</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Social &amp; Sports Committee is responsible for planning and executing social and sporting events for Computer Science students and comprises the following members:</p>
 <dl>
 <dt><u>Vice President, Social</u> (chair)</dt>
 <dd>Clara Chu</dd>
@@ -144,4 +143,3 @@ date: 2015-05-04T07:01:00.000Z
   </div>
     <footer>
           </footer>
-    

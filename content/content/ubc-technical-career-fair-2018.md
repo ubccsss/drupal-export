@@ -8,8 +8,7 @@ author:
 date: 2018-01-13T03:00:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="https://ubccsss.org/files/26240038_1781782651845524_1497206206029099164_o.jpg" style="max-width: 100%"></p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="https://ubccsss.org/files/26240038_1781782651845524_1497206206029099164_o.jpg" style="max-width: 100%"></p>
 
 <p>&#x1F389; Welcome to the 2018 Technical Career Fair! &#x1F389;</p>
 
@@ -79,4 +78,3 @@ date: 2018-01-13T03:00:00.000Z
 <p>Check out <a href="http://www.cs.ubc.ca/industry/techcareerfair">www.cs.ubc.ca/industry/techcareerfair</a> and ubctcf.com for more info!</p>
 </div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, January 25, 2018 - <span class="date-display-range"><span class="date-display-start">10:00</span> to <span class="date-display-end">16:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">Life Science Building - 2350 Health Sciences Mall, Vancouver, British Columbia V6T 1Z3</div></div></div>    <footer>
     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/career">Career</a></div></div></div>      </footer>
-    

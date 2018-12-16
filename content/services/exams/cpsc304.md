@@ -8,8 +8,7 @@ author:
 date: 2016-12-15T03:43:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2004</h2>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2004</h2>
 
 <p><a href="/files/exams/2004/cs304-2004-t1-midterm1.pdf">Midterm 1 (Term 1)</a> <a href="/files/exams/2004/cs304-2004-t1-midterm1-solution.pdf">(Solution)</a></p>
 
@@ -92,4 +91,3 @@ date: 2016-12-15T03:43:00.000Z
   </div>
     <footer>
           </footer>
-    

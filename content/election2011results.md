@@ -8,8 +8,7 @@ author:
 date: 2011-04-15T05:30:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Elections are over, and the results are in, pending any candidate-requested recounts. If a candidate wishes a recount to be taken, they should e-mail <code>elections[at]thecube[dot]ca</code> by 11:59:59PM, Thursday, April 14, 2011. Barring any changes to the outcome, congratulations to our new executives-elect:</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Elections are over, and the results are in, pending any candidate-requested recounts. If a candidate wishes a recount to be taken, they should e-mail <code>elections[at]thecube[dot]ca</code> by 11:59:59PM, Thursday, April 14, 2011. Barring any changes to the outcome, congratulations to our new executives-elect:</p>
 <dl>
 <dt>President</dt>
 <dd><b>Vlad Zaharia:</b> 35 in favour, 3 against</dd>
@@ -32,4 +31,3 @@ date: 2011-04-15T05:30:00.000Z
 <p>Thanks to everyone who voted and ran, congratulations to the winners, and good luck to next year&apos;s executive! The new executives will take power on May 1, 2011, with the exception of the Vice President, Finance who will take power at the time of treasurer orientations with the AMS Finance Commission.</p>
 </div></div></div>    <footer>
           </footer>
-    

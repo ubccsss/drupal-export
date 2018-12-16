@@ -8,8 +8,7 @@ author:
 date: 2016-11-29T20:40:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2010</h2>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2010</h2>
 
 <p><a href="/files/exams/2010/cs422-2010-t2-practice-midterm.pdf">Practice Midterm (Term 2)</a> <a href="/files/exams/2010/cs422-2010-t2-practice-midterm-solution.pdf">(Solution)</a></p>
 </div></div></div>  <div id="book-navigation-1440" class="book-navigation">
@@ -46,4 +45,3 @@ date: 2016-11-29T20:40:00.000Z
   </div>
     <footer>
           </footer>
-    

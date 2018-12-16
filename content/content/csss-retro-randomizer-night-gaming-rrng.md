@@ -8,8 +8,7 @@ author:
 date: 2017-12-03T01:22:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="https://ubccsss.org/files/Retreo_Randomizer.jpg" style="max-width: 100%"></p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="https://ubccsss.org/files/Retreo_Randomizer.jpg" style="max-width: 100%"></p>
 
 <p>Join us for a night of chaos and mayhem as we dash through old-school games ranging from the classic to the awful to the straight-up absurd! Compete with your friends to rack up as many points as you can in a short amount of time for good times and prizes, not to mention supporting a good cause - all proceeds from the event go to support Child&apos;s Play charity!</p>
 
@@ -31,4 +30,3 @@ Please arrive no later than 6:15! We&apos;ll need time to get everyone set up on
 - A laptop (Any laptop will do!)</p>
 </div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Friday, December 1, 2017 - <span class="date-display-range"><span class="date-display-start">18:00</span> to <span class="date-display-end">21:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">DMP 301</div></div></div>    <footer>
     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/social">Social</a></div></div></div>      </footer>
-    

@@ -8,8 +8,7 @@ author:
 date: 2018-09-18T17:40:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Subscribe to find out about upcoming events and opportunities for the Computer Science Student Society and the Computer Science Department!</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Subscribe to find out about upcoming events and opportunities for the Computer Science Student Society and the Computer Science Department!</p>
 
 <h2>Subscribe</h2>
 
@@ -50,4 +49,3 @@ subscription options enter your subscription email address:</p>
 </form><p></p>
 </div></div></div>    <footer>
           </footer>
-    

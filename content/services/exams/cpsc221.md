@@ -8,8 +8,7 @@ author:
 date: 2017-03-09T03:54:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2004</h2>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2004</h2>
 
 <p><a href="/files/exams/2004/cs221-2004-s-midterm.pdf">Summer Midterm</a> <a href="/files/exams/2004/cs221-2004-s-midterm-solution.pdf">(Solution)</a></p>
 
@@ -86,4 +85,3 @@ date: 2017-03-09T03:54:00.000Z
   </div>
     <footer>
           </footer>
-    

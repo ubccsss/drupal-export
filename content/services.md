@@ -8,8 +8,7 @@ author:
 date: 2016-11-25T06:50:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Cube offers the following services:</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Cube offers the following services:</p>
 
 <h2><a href="/club/prices">Food</a></h2>
 
@@ -46,4 +45,3 @@ date: 2016-11-25T06:50:00.000Z
 <p>We provide TRAC environments for bug tracking and project management for course and personal projects (to get a TRAC environment, you must first create a Subversion project; you use the same account in both places).</p>
 </div></div></div>    <footer>
           </footer>
-    

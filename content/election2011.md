@@ -8,8 +8,7 @@ author:
 date: 2013-08-29T03:44:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><!--break--><p>Elections for the Computer Science Student Society executive for the 2012&#x2013;2013 academic year are coming up! If you&#x2019;re an undergraduate student in Computer Science, be sure to make your voice heard. Please bring your student card! Voting is open March 20 from 12:30 to 4:30 and March 21 from 12:00 to 5:00.</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><!--break--><p>Elections for the Computer Science Student Society executive for the 2012&#x2013;2013 academic year are coming up! If you&#x2019;re an undergraduate student in Computer Science, be sure to make your voice heard. Please bring your student card! Voting is open March 20 from 12:30 to 4:30 and March 21 from 12:00 to 5:00.</p>
 <dl>
 <dt>VP Administration: Rylan Santman</dt>
 <dt>VP Administration: Michael Wu</dt>
@@ -29,4 +28,3 @@ date: 2013-08-29T03:44:00.000Z
 </dl>
 </div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-range"><span class="date-display-start">Tuesday, March 20, 2012 - 22:53</span> to <span class="date-display-end">Wednesday, March 21, 2012 - 22:53</span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">DMP Foyer</div></div></div>    <footer>
     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/club">Club Activities</a></div><div class="field-item odd"><a href="/club/volunteer">Volunteer</a></div></div></div>      </footer>
-    

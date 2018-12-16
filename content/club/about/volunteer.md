@@ -8,8 +8,7 @@ author:
 date: 2015-05-04T07:00:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Volunteering Committee is responsible for connecting students with volunteering opportunities within the department, within UBC, and in the community and comprises the following members:</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Volunteering Committee is responsible for connecting students with volunteering opportunities within the department, within UBC, and in the community and comprises the following members:</p>
 <dl>
 <dt><u>Vice President, Volunteering Services</u> (chair)</dt>
 <dd>Reed Mullanix</dd>
@@ -170,4 +169,3 @@ date: 2015-05-04T07:00:00.000Z
   </div>
     <footer>
           </footer>
-    

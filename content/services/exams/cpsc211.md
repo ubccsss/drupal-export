@@ -8,8 +8,7 @@ author:
 date: 2017-03-09T03:53:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2008</h2>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2008</h2>
 
 <p><a href="/files/exams/2008/cs211-2008-t1-midterm.pdf">Midterm (Term 1)</a> <a href="/files/exams/2008/cs211-2008-t1-midterm-solution.pdf">(Solution)</a></p>
 </div></div></div>  <div id="book-navigation-1440" class="book-navigation">
@@ -46,4 +45,3 @@ date: 2017-03-09T03:53:00.000Z
   </div>
     <footer>
           </footer>
-    

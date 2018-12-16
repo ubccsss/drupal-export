@@ -8,8 +8,7 @@ author:
 date: 2014-02-16T08:13:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Are you, or somebody you know, interested in making a difference around the Computer Science Department?  Do you enjoy leadership positions and the opportunity to give back to your community?</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Are you, or somebody you know, interested in making a difference around the Computer Science Department?  Do you enjoy leadership positions and the opportunity to give back to your community?</p>
 <p>Every year around this time, we hold the elections for the following year&#x2019;s Executive Committee.  This committee, elected by their fellow Computer Science classmates, lead the Computer Science Student Society (the CSSS).  If you think you, or any of your friends, would be a great fit for one of the executive roles then nominate them/yourselves!</p>
 <p>Get your nomination form <a href="/files/2014nomination.pdf">here</a>, and have it back to Matthew Dorfmann by noon, February 28. If you have any questions or concerns, please contact <code>elections[at]thecube[dot]ca</code>.</p>
 <p>Once nominations are in, we intend to announce the full list of accepted nominations by 1 PM on February 28, then have a campaign period March 3 through 10 and the election March 10 and 11. Votes will be counted on March 11 after close of polls.</p>
@@ -32,4 +31,3 @@ date: 2014-02-16T08:13:00.000Z
 </dl>
 </div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-range"><span class="date-display-start">Monday, February 17, 2014 - 00:00</span> to <span class="date-display-end">Friday, February 28, 2014 - 12:00</span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">ICICS 021</div></div></div>    <footer>
     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/club/volunteer">Volunteer</a></div></div></div>      </footer>
-    

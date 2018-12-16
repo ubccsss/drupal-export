@@ -8,8 +8,7 @@ author:
 date: 2013-08-29T03:44:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Executive elections are coming up! Come out and vote for the people you want running your student society. Voting is open to all undergraduate students whose declared specializations are Computer Science, and the polls are open Monday 10&#x2013;4:45 and Tuesday 11&#x2013;5. See <a href="/election2009">more information about the candidates</a>.</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Executive elections are coming up! Come out and vote for the people you want running your student society. Voting is open to all undergraduate students whose declared specializations are Computer Science, and the polls are open Monday 10&#x2013;4:45 and Tuesday 11&#x2013;5. See <a href="/election2009">more information about the candidates</a>.</p>
 <!--break--><p>The following candidates are running:</p>
 <h3>President</h3>
 <dl>
@@ -168,4 +167,3 @@ A few random facts about me:<p></p>
 </dl>
 </div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-range"><span class="date-display-start">Monday, March 23, 2009 - 23:55</span> to <span class="date-display-end">Tuesday, March 24, 2009 - 23:55</span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">DMP Foyer</div></div></div>    <footer>
     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/club">Club Activities</a></div><div class="field-item odd"><a href="/club/volunteer">Volunteer</a></div></div></div>      </footer>
-    

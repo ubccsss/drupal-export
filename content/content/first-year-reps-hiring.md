@@ -8,8 +8,7 @@ author:
 date: 2017-12-02T07:55:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="https://ubccsss.org/files/Hiring%20FYR.jpg" style="max-width: 100%"></p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img src="https://ubccsss.org/files/Hiring%20FYR.jpg" style="max-width: 100%"></p>
 
 <p>Calling out to all first years students who intend to major in Computer Science (Arts, Science, BUCS, BMS all welcomed)!</p>
 
@@ -28,4 +27,3 @@ date: 2017-12-02T07:55:00.000Z
 <p>Deadline: Wed. Oct. 18 @ 11:59pm</p>
 </div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-range"><span class="date-display-start">Tuesday, October 10, 2017 (All day)</span> to <span class="date-display-end">Wednesday, October 18, 2017 (All day)</span></span></div></div></div>    <footer>
           </footer>
-    

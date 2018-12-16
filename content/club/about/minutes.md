@@ -8,8 +8,7 @@ author:
 date: 2018-06-19T19:35:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>On this page, you can find records of past meetings which have been dutifully described in great detail by our Secretaries.</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>On this page, you can find records of past meetings which have been dutifully described in great detail by our Secretaries.</p>
 
 <p>As always, we encourage you, as a CS student, to play an active role in the CSSS.  Should you have any concerns regarding anything or if you would like us to address a subject, let us know and we&apos;ll be happy to discuss it!</p>
 
@@ -142,4 +141,3 @@ date: 2018-06-19T19:35:00.000Z
   </div>
     <footer>
           </footer>
-    

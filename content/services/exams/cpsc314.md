@@ -8,8 +8,7 @@ author:
 date: 2016-12-02T23:20:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2007</h2>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2007</h2>
 
 <ul>
 <li><a href="https://ubccsss.org/files/cs314-2007-final.pdf">Final</a></li>
@@ -82,4 +81,3 @@ date: 2016-12-02T23:20:00.000Z
   </div>
     <footer>
           </footer>
-    

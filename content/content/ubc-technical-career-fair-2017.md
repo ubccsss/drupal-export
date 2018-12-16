@@ -8,8 +8,7 @@ author:
 date: 2017-01-24T21:42:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img style="width:100%;max-width:640px" src="https://ubccsss.org/files/Facebook%20Event.png"></p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img style="width:100%;max-width:640px" src="https://ubccsss.org/files/Facebook%20Event.png"></p>
 
 <p><a href="https://ubctcf.com">https://ubctcf.com</a></p>
 
@@ -81,7 +80,6 @@ Zaber Technologies</p>
 
 <h4>Employers</h4>
 
-<p>If you&apos;d like more information on the upcoming fair, including registration for the event, please reach out to <a href="/cdn-cgi/l/email-protection#4625273423233420272f34063324252535353568293421"><span class="__cf_email__" data-cfemail="b8dbd9caddddcaded9d1caf8cddadbdbcbcbcb96d7cadf">[email&#xA0;protected]</span></a> and a representative will be happy to assist you.</p>
+<p>If you&apos;d like more information on the upcoming fair, including registration for the event, please reach out to <a href="/cdn-cgi/l/email-protection#6f0c0e1d0a0a1d090e061d2f1a0d0c0c1c1c1c41001d08"><span class="__cf_email__" data-cfemail="5b383a293e3e293d3a32291b2e3938382828287534293c">[email&#xA0;protected]</span></a> and a representative will be happy to assist you.</p>
 </div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-single">Thursday, January 26, 2017 - <span class="date-display-range"><span class="date-display-start">10:00</span> to <span class="date-display-end">16:00</span></span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">West Atrium of the Life Sciences Centre</div></div></div>    <footer>
     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/club">Club Activities</a></div><div class="field-item odd"><a href="/career">Career</a></div></div></div>      </footer>
-    

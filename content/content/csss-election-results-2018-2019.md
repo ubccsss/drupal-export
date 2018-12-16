@@ -8,8 +8,7 @@ author:
 date: 2018-03-22T05:42:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Congratulations to the winners!</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Congratulations to the winners!</p>
 
 <pre><code>Results:
 - President:
@@ -82,4 +81,3 @@ date: 2018-03-22T05:42:00.000Z
 </code></pre>
 </div></div></div>    <footer>
     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/club">Club Activities</a></div></div></div>      </footer>
-    

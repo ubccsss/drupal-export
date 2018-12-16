@@ -8,8 +8,7 @@ author:
 date: 2016-11-29T20:38:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2005</h2>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2005</h2>
 
 <p><a href="/files/exams/2005/cs312-2005-t1-sample-midterm.pdf">Sample Midterm (Term 1)</a></p>
 
@@ -54,4 +53,3 @@ date: 2016-11-29T20:38:00.000Z
   </div>
     <footer>
           </footer>
-    

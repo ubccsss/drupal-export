@@ -8,8 +8,7 @@ author:
 date: 2018-09-03T17:15:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><style>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><style>
 @media print {
 body .main-container  .row {
 max-width: initial !important;
@@ -198,4 +197,3 @@ display: none;
 <p>Online at <a href="https://ubccsss.org/club/prices">https://ubccsss.org/club/prices</a>.</p>
 </div></div></div>    <footer>
           </footer>
-    

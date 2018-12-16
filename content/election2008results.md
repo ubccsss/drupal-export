@@ -8,8 +8,7 @@ author:
 date: 2011-04-15T05:32:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Congratulations next year&apos;s executives!!!</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Congratulations next year&apos;s executives!!!</p>
 <p><strong>President</strong></p>
 <ul>
 <li><strong>KWOK, Amy 31 (67.4%)</strong>
@@ -37,4 +36,3 @@ date: 2011-04-15T05:32:00.000Z
 </li></ul>
 </div></div></div>    <footer>
           </footer>
-    

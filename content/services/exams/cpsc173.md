@@ -8,8 +8,7 @@ author:
 date: 2017-03-09T03:53:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2003</h2>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2003</h2>
 
 <p><a href="/files/exams/2003/cs173-2003-t1-tutorial1.pdf">Tutorial 1</a></p>
 
@@ -50,4 +49,3 @@ date: 2017-03-09T03:53:00.000Z
   </div>
     <footer>
           </footer>
-    

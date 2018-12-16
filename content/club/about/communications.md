@@ -8,8 +8,7 @@ author:
 date: 2016-03-08T06:10:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Communications Committee is responsible for communicating events and business of the Computer Science Student Society to the Computer Science undergraduate population and comprises the following members:</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Communications Committee is responsible for communicating events and business of the Computer Science Student Society to the Computer Science undergraduate population and comprises the following members:</p>
 <dl>
 <dt><u>Vice President, Communications</u> (chair)</dt>
 <dd>Brian Chau</dd>
@@ -160,4 +159,3 @@ date: 2016-03-08T06:10:00.000Z
   </div>
     <footer>
           </footer>
-    

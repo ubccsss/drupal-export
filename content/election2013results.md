@@ -8,8 +8,7 @@ author:
 date: 2015-04-08T06:57:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The election results are in!</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The election results are in!</p>
 <p>57 votes were accepted out of 59 total.</p>
 <p>3 People ran for president:<br>
 Anmol Gupta: 20 votes<br>
@@ -23,4 +22,3 @@ Michael Kwan (VP Social): 47 yea, 3 nay</p>
 <p>Since not every position had a candidate, our remaining positions still need to be filled. Email vpc [at] thecube [dot] ca about your chosen position if interested!</p>
 </div></div></div>    <footer>
     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/club">Club Activities</a></div><div class="field-item odd"><a href="/club/volunteer">Volunteer</a></div></div></div>      </footer>
-    

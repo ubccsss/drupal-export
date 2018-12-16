@@ -8,8 +8,7 @@ author:
 date: 2016-12-15T03:58:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2006</h2>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>2006</h2>
 
 <ul>
 <li><a href="https://web.archive.org/web/20161215035742/http://www.ugrad.cs.ubc.ca/~cs320/2009S/files/old-final-soln.pdf">Final (Solution)</a></li>
@@ -86,4 +85,3 @@ date: 2016-12-15T03:58:00.000Z
   </div>
     <footer>
           </footer>
-    

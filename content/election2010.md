@@ -8,8 +8,7 @@ author:
 date: 2013-08-29T03:44:00.000Z
 ---
 
-
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><!--break--><p>Executive elections are coming up! Come out and vote for the people you want running your student society. Voting is open to all undergraduate students whose declared specializations are Computer Science, and the polls are open Thursday and Friday 10&#x2013;4. Note that the Computer Science Student Society uses an approval voting system. Positions for which only one candidate is running allow the marking of &#x201C;yes&#x201D; or &#x201C;no&#x201D; for the candidate (with the candidate being elected if they receive more votes in favour than against); positions with multiple candidates allow the marking of any subset of candidates, with the candidate receiving more votes than any other being elected.</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><!--break--><p>Executive elections are coming up! Come out and vote for the people you want running your student society. Voting is open to all undergraduate students whose declared specializations are Computer Science, and the polls are open Thursday and Friday 10&#x2013;4. Note that the Computer Science Student Society uses an approval voting system. Positions for which only one candidate is running allow the marking of &#x201C;yes&#x201D; or &#x201C;no&#x201D; for the candidate (with the candidate being elected if they receive more votes in favour than against); positions with multiple candidates allow the marking of any subset of candidates, with the candidate receiving more votes than any other being elected.</p>
 <p>The following candidates are running:</p>
 <h3>President</h3>
 <dl>
@@ -148,4 +147,3 @@ Volunteering.</p>
 </dl>
 </div></div></div><div class="field field-name-field-dates field-type-datetime field-label-above"><div class="field-label">When:&#xA0;</div><div class="field-items"><div class="field-item even"><span class="date-display-range"><span class="date-display-start">Thursday, March 25, 2010 - 09:37</span> to <span class="date-display-end">Friday, March 26, 2010 - 09:37</span></span></div></div></div><div class="field field-name-field-location field-type-text field-label-above"><div class="field-label">Where:&#xA0;</div><div class="field-items"><div class="field-item even">DMP Foyer</div></div></div>    <footer>
     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&#xA0;</div><div class="field-items"><div class="field-item even"><a href="/club">Club Activities</a></div><div class="field-item odd"><a href="/club/volunteer">Volunteer</a></div></div></div>      </footer>
-    
