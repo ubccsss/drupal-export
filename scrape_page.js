@@ -37,18 +37,20 @@ async function scrapePage(node, outFolder) {
         .toArray()
         .map(img => new URL($(img).attr('src'), 'https://ubccsss.org'))
         .filter(url => url.host === 'ubccsss.org')
-        .map(url => {
+        .map(async url => {
             const imagePath = join(outFolder, url.pathname);
-            return ensureDir(dirname(imagePath))
-                .then(() => {
-                    const dest = createWriteStream(imagePath, 'binary');
-                    res.body.pipe(dest);
-                    return new Promise((resolve, reject) => {
-                        dest.once('finish', resolve);
-                        dest.once('error', reject);
-                    });
-                })
-                .then(() => url);
+            const [res] = await Promise.all([
+                fetch(url),
+                ensureDir(dirname(imagePath))
+            ]);
+
+            const dest = createWriteStream(imagePath, 'binary');
+            res.body.pipe(dest);
+            await new Promise((resolve, reject) => {
+                dest.once('finish', resolve);
+                dest.once('error', reject);
+            });
+            return url;
         });
 
     const [_a, month, day, year, hour, min] = DATE_REGEX.exec(node.date);
