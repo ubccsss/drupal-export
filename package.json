@@ -13,7 +13,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "fs-extra": "^7.0.1",
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.6.1"
   },
   "engines": {
     "node": ">=10.0.0"
